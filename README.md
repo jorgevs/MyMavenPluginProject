@@ -14,7 +14,7 @@ The following items should be installed in your system:
 
 1) In the command line
 ```
-git clone https://github.com/jorgevs/MyHibernateProject.git
+git clone https://github.com/jorgevs/MyMavenPluginProject.git
 ```
 2) Inside Eclipse
 ```
